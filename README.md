@@ -79,22 +79,21 @@ Revenue by State & City (Map Visual)
 # 📸 Dashboard Preview:
 
 ## 🌏Overview
-![Overview](dashboard review/Overview - ajio - Power BI.pdf)
 
 ## 🗺️Regional Analysis
-![Overview](Screenshots/Screenshot%202025-10-28%20112241.png)
+
 
 ## 🧩Product Analysis
-![Overview](Screenshots/Screenshot%202025-10-28%20112257.png)
 
-## 🏬Retailer Analysis
-![Overview](Screenshots/Screenshot%202025-10-28%20112314.png)
+## 🏬Customer Analysis
 
-## 💳Sales Method Analysis
-![Overview](Screenshots/Screenshot%202025-10-28%20112333.png)
+## 💳Transaction Method Analysis
+
+## 🧮Return and Service Analysis
+
 
 ## 📍Geographical Visualization
-![Overview](Screenshots/Screenshot%202025-10-28%20112403.png)
+
 
 
 ## 💡 Key Insights
