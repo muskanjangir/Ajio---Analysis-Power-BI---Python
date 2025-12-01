@@ -79,7 +79,7 @@ Revenue by State & City (Map Visual)
 # 📸 Dashboard Preview:
 
 ## 🌏Overview
-![Overview](Screenshots/Screenshot%202025-10-28%20112207.png)
+![Overview](dashboard review/Overview - ajio - Power BI.pdf)
 
 ## 🗺️Regional Analysis
 ![Overview](Screenshots/Screenshot%202025-10-28%20112241.png)
