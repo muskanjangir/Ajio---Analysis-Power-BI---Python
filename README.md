@@ -79,7 +79,7 @@ Revenue by State & City (Map Visual)
 # 📸 Dashboard Preview:
 
 ## 🌏Overview
-![Overview](dashboard review/Screenshot_20251202_135337_Samsung Notes.jpg)
+![dashboard review/Screenshot_20251202_135337_Samsung Notes.jpg]
 ## 🗺️Regional Analysis
 
 
