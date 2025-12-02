@@ -79,7 +79,7 @@ Revenue by State & City (Map Visual)
 # 📸 Dashboard Preview:
 
 ## 🌏Overview
-[Click to open file](dashboard review/Overview - ajio - Power BI.pdf)
+![Overview](dashboard review/Screenshot_20251202_135337_Samsung Notes.jpg)
 ## 🗺️Regional Analysis
 
 
