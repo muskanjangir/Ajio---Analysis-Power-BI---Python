@@ -80,20 +80,24 @@ Revenue by State & City (Map Visual)
 
 ## 🌏Overview
 ![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135337_Samsung%20Notes.jpg)
-## 🗺️Regional Analysis
 
+## 🗺️Regional Analysis
+![Dashboard Screenshot]()
 
 ## 🧩Product Analysis
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135349_Samsung%20Notes.jpg)
 
 ## 🏬Customer Analysis
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135403_Samsung%20Notes.jpg)
 
 ## 💳Transaction Method Analysis
+![Dashboard Screenshot]()
 
 ## 🧮Return and Service Analysis
-
+![Dashboard Screenshot]()
 
 ## 📍Geographical Visualization
-
+![Dashboard Screenshot]()
 
 
 ## 💡 Key Insights
