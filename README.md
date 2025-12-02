@@ -1,4 +1,4 @@
-# 🏆 Adidas Sales Analysis — Python + Power BI
+# 🏆 Ajio Sales Analysis — Python + Power BI
 ## 📘 Project Overview
 
 This project provides a comprehensive analysis of **Ajio sales data** to uncover business performance insights and identify growth opportunities. Using **Python** for data preprocessing and **Power BI** for dashboard visualization, the analysis explores key dimensions such as regional performance, profit margins, product trends, and customer segments.
@@ -79,7 +79,7 @@ Revenue by State & City (Map Visual)
 # 📸 Dashboard Preview:
 
 ## 🌏Overview
-![dashboard review/Screenshot_20251202_135337_Samsung Notes.jpg]
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135337_Samsung%20Notes.jpg)
 ## 🗺️Regional Analysis
 
 
