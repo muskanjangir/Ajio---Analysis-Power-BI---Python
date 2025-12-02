@@ -5,7 +5,7 @@ This project provides a comprehensive analysis of **Ajio sales data** to uncover
 
 ## 🧩 Objectives
 
-- Analyze sales and profit performance by product, city, and region.
+- Analyze revenue and profit performance by product, city, and region.
 
 - Identify top-performing categories and products.
 
@@ -82,7 +82,7 @@ Revenue by State & City (Map Visual)
 ![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135337_Samsung%20Notes.jpg)
 
 ## 🗺️Regional Analysis
-![Dashboard Screenshot]()
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135437_Samsung%20Notes.jpg)
 
 ## 🧩Product Analysis
 ![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135349_Samsung%20Notes.jpg)
@@ -91,13 +91,13 @@ Revenue by State & City (Map Visual)
 ![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135403_Samsung%20Notes.jpg)
 
 ## 💳Transaction Method Analysis
-![Dashboard Screenshot]()
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135449_Samsung%20Notes.jpg)
 
 ## 🧮Return and Service Analysis
-![Dashboard Screenshot]()
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135459_Samsung%20Notes.jpg)
 
 ## 📍Geographical Visualization
-![Dashboard Screenshot]()
+![Dashboard Screenshot](dashboard%20review/Screenshot_20251202_135426_Samsung%20Notes.jpg)
 
 
 ## 💡 Key Insights
